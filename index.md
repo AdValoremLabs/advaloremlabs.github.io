@@ -1,7 +1,6 @@
 ---
 title: Ad Valorem Labs
 layout: default
-css: /assets/css/style.css
 ---
 
 <p align="center">
@@ -10,7 +9,9 @@ css: /assets/css/style.css
 
 # Ad Valorem Labs
 
-**Adding value to your life**
+<p align="center">
+  **Adding value to your life**
+</p>
 
 We design and document **ready-to-use Raspberry Pi kits** for makers, educators, and tinkerers who value clear instructions and reliable hardware.  
 Each kit includes pre-flashed software, verified components, and simple quick-start documentation.

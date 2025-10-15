@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <!-- optional cache-bust: add ?v=1 to the href if you don't see updates -->
+  </head>
+  <body>
+    <main>
+      {{ content }}
+    </main>
+    <footer>
+      © {{ "now" | date: "%Y" }} Ad Valorem Labs
+    </footer>
+  </body>
+</html>

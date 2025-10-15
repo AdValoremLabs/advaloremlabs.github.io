@@ -1,0 +1,5 @@
+title: Ad Valorem Labs
+description: Adding value to your life
+url: https://advaloremlabs.github.io
+baseurl: ""        # keep empty for an org site; set "/repo-name" for a project site
+theme: null        # turn off the default theme so our layout+CSS control everything
