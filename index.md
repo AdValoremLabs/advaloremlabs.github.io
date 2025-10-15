@@ -1,6 +1,7 @@
 ---
 title: Ad Valorem Labs
 layout: default
+css: /assets/css/style.css
 ---
 
 <p align="center">
