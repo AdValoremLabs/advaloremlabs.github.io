@@ -4,7 +4,7 @@ layout: default
 ---
 
 <p align="center">
-  <img src="/assets/brand-logo.svg" alt="Ad Valorem Labs logo" width="160"/>
+  <img src="/assets/brand-logo-simple.png" alt="Ad Valorem Labs logo" width="160"/>
 </p>
 
 # Ad Valorem Labs
