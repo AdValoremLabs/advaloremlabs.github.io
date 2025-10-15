@@ -43,6 +43,25 @@ h2 {
   padding-bottom: 0.3em;
 }
 
+.breadcrumb {
+  text-align: center;
+  margin: 0 auto 2rem auto;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.breadcrumb a {
+  color: var(--link);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+.breadcrumb a:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
 a {
   color: var(--link);
   text-decoration: none;
