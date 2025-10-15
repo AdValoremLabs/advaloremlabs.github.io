@@ -1,0 +1,9 @@
+{% assign crumbs = page.url | split: '/' %}
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <a href="{{ '/' | relative_url }}">Home</a>
+  {% for crumb in crumbs %}
+    {% unless crumb == "" or forloop.last %}
+      › <a href="{{ '/' | append: crumb | append: '/' | relative_url }}">{{ crumb | capitalize }}</a>
+    {% endunless %}
+  {% endfor %}
+</nav>
