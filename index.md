@@ -9,7 +9,9 @@ layout: default
 
 # Ad Valorem Labs
 
-**Adding value to your life**
+<p align="center" style="font-size:1.4rem; font-weight:600; margin-top:1em;">
+  Adding value to your life
+</p>
 
 We design and document **ready-to-use Raspberry Pi kits** for makers, educators, and tinkerers who value clear instructions and reliable hardware.  
 Each kit includes pre-flashed software, verified components, and simple quick-start documentation.
