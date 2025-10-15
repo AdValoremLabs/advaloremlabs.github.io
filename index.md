@@ -10,7 +10,7 @@ css: /assets/css/style.css
 
 # Ad Valorem Labs
 
-**Clean. Useful. Documented.**
+**Adding value to your life**
 
 We design and document **ready-to-use Raspberry Pi kits** for makers, educators, and tinkerers who value clear instructions and reliable hardware.  
 Each kit includes pre-flashed software, verified components, and simple quick-start documentation.
