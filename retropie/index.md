@@ -4,7 +4,7 @@ layout: default
 ---
 
 <p align="center">
-  <img src="{{ '/assets/brand-logo-simple.png' | relative_url }}" alt="Ad Valorem Labs" width="120">
+  <img src="{{ '/assets/brand-logo-simple.png' | relative_url }}" alt="Ad Valorem Labs" width="160">
 </p>
 
 # RetroPie Gaming Kit
