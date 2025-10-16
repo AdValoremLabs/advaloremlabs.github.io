@@ -7,6 +7,9 @@ layout: default
   <img src="{{ '/assets/brand-logo-simple.png' | relative_url }}" alt="Ad Valorem Labs" width="160">
 </p>
 
+# COMING SOON
+## Pre-production page - Does not represent any final product
+
 # Home Assistant Kit
 
 <p align="center" style="font-size:1.2rem; font-weight:600; margin-top:.2em;">

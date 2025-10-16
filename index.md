@@ -9,6 +9,9 @@ layout: default
 
 # Ad Valorem Labs
 
+# COMING SOON
+## Pre-production page - Does not represent any final product
+
 <p align="center" style="font-size:1.4rem; font-weight:600; margin-top:1em;">
   Adding value to your life
 </p>
