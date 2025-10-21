@@ -35,3 +35,5 @@ Includes a pre-flashed SD card, verified components, and a quick-start card.
 3. Visit **http://homeassistant.local:8123/** (or the Pi’s IP).
 
 > Need Wi-Fi? See the `my-network` example in the repo.
+
+**Need help?** [Open a Home Assistant support ticket →](https://github.com/AdValoremLabs/help-desk/issues/new?template=home-assistant.yml&labels=support,home-assistant&title=%5BHA%5D+Short+summary)
